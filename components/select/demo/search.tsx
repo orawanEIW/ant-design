@@ -21,16 +21,16 @@ const App: React.FC = () => (
     }
     options={[
       {
-        value: 'jack',
-        label: 'Jack',
+        value: '7 สีช่วยชาวบ้าน',
+        label: '7 สีช่วยชาวบ้าน',
       },
       {
-        value: 'lucy',
-        label: 'Lucy',
+        value: 'ข่าวภาคค่ำ',
+        label: 'ข่าวภาคค่ำ',
       },
       {
-        value: 'tom',
-        label: 'Tom',
+        value: 'เส้นทางบันเทิง',
+        label: 'เส้นทางบันเทิง',
       },
     ]}
   />
